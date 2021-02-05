@@ -10,7 +10,7 @@ status: "published"
 
 ---
 
-Aqui hay varias formas de instalar node en cualquier mac, pero mi recomendación es instalarlo usando brew y nvm.
+Aquí hay varias formas de instalar node en cualquier mac, pero mi recomendación es instalarlo usando brew y nvm.
 Creo que es la mejor manera por varias razones:
 
   1. Algunas veces querrás cambiar entre varias versiones de node dependiendo de la librerías que uses, no quieres quedarte solo con una versión.
@@ -19,7 +19,7 @@ Creo que es la mejor manera por varias razones:
 ## Pasos para instalarlo:
 
   1. **Instalar brew (si es que ya no lo tienes)**  
-  Segùn el [sitio oficial de brewbrew
+  Segùn el [sitio oficial de brew
   ](https://brew.sh/) sòlo debes pegar un comando en la consola: 
   ```sh
     $ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
